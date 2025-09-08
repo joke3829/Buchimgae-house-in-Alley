@@ -27,11 +27,9 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
 #directory
 *.vs/
 *x64/
-*src/
