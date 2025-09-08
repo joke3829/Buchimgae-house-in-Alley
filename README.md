@@ -27,7 +27,7 @@ https://youtu.be/VEzDtZXc4lE?si=qch8d-qFMaMb06mN (게임 설명 영상 유튜브
 
 경험이 많이 부족한 상태에서 만들어 코드가 많이 지저분 합니다.
 
-
+---
 개발자 이메일
 
 김경환 - kim1234312@gmail.com
