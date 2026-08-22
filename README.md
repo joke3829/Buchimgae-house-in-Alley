@@ -29,6 +29,10 @@ https://youtu.be/VEzDtZXc4lE?si=qch8d-qFMaMb06mN (게임 설명 영상 유튜브
 
 경험이 많이 부족한 상태에서 만들어 코드가 많이 지저분 합니다.
 
+노션에서 더 많은 설명을 보실 수 있습니다.
+
+notion: <https://app.notion.com/p/3bb2c7365dca80558a77f1805a24dccc?source=copy_link>
+
 ---
 개발자 이메일
 
